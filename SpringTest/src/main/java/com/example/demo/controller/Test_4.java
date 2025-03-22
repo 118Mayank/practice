@@ -31,7 +31,7 @@ public class Test_4 {
 			}
 		});
 		
-		es.
+//		es.
 	}
 
 	public static void cfThread() {
@@ -46,7 +46,7 @@ public class Test_4 {
 			}
 			return null;
 		});
-		cf.
+//		cf.
 
 	}
 
@@ -68,7 +68,7 @@ public class Test_4 {
 			e.printStackTrace();
 		}
 
-		executorService.
+//		executorService.
 	}
 	
 }
